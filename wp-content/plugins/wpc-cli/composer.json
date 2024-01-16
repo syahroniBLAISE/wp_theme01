@@ -1,0 +1,16 @@
+{
+    "name": "partner/wpc-cli",
+    "autoload": {
+        "psr-4": {
+            "Partner\\WpcCli\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "syahroni"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.5"
+    }
+}
